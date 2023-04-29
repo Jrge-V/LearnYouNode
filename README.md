@@ -3,6 +3,8 @@
 __Download learnyounode__
 ```
 npm install -g learnyounode
+
+npm install bl (needed for exercise 8)
 ```
 __Commands__
 
