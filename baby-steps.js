@@ -1,5 +1,5 @@
 // declare variable result and make it equal to zero
-var result = 0;
+const result = 0;
 
 // making i = 2 ignores the first 2 arguments, those being "node" and "baby-steps.js"
 
@@ -11,7 +11,7 @@ var result = 0;
 
 // using += will keep adding the numbers in the array and process.argv[i] along with i++ takes care of the current postion  for as long as it is less than process.argv.length
 
-for (var i = 2; i < process.argv.length; i++){
+for (const i = 2; i < process.argv.length; i++){
     result += Number(process.argv[i]);
 }
 
