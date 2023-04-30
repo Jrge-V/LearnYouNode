@@ -5,6 +5,8 @@ __Download learnyounode__
 npm install -g learnyounode
 
 npm install bl (needed for exercise 8)
+
+npm install through2-map (needed for exercise 11)
 ```
 __Commands__
 
